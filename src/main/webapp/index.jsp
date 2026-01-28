@@ -24,26 +24,16 @@ body {
     border-radius: 5px;
     margin-right: 10px;
 }
-
 .btn:hover {
     background-color: #084298;
 }
-
-
-
-
-
-
 </style>
 </head>
 <body>
 <h2>Welcome to Employee Management System</h2>
-
 <p class="nav-buttons">
     <a href="list" class="btn">View All Employees</a>
     <a href="add-employee.jsp" class="btn btn-add">Add New Employee</a>
 </p>
-
-
 </body>
 </html>
